@@ -1,0 +1,94 @@
+img {
+  width: 150px;
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  position: absolute;
+  top: 22%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+h3 {
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+#button {
+    margin-top: 35px;
+}
+
+button {
+    width: 200px;
+}
+
+#logForm {
+    padding-left: 100px;
+    padding-top: 400px;
+}
+
+label {
+    font-size: 15px;
+    font-weight: lighter;
+    margin-bottom: 6px;
+}
+
+input {
+    border: 0px;
+    width: 350px;
+    background-color: rgb(248, 248, 248);
+}
+
+#alert {
+    width: 10px;
+    font-size: 12px;
+}
+
+#warningIcons {
+  position: relative;
+  top: 7px;
+  right: 5px;
+}
+
+#loginIcons {
+  position: relative;
+  top: 3px;
+  align-self: flex-end;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  margin: 0 auto 0 auto;
+  transform-origin: bottom;
+  animation-name: bounce;
+  animation-timing-function: ease;
+}
+
+@keyframes bounce {
+  0% {
+    transform: scale(1, 1) translateY(0);
+  }
+
+  10% {
+    transform: scale(1.1, .9) translateY(0);
+  }
+
+  30% {
+    transform: scale(.9, 1.1) translateY(-0.5px);
+  }
+
+  50% {
+    transform: scale(1, 1) translateY(0);
+  }
+
+  100% {
+    transform: scale(1, 1) translateY(0);
+  }
+}

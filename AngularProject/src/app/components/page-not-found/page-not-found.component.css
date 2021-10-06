@@ -1,0 +1,26 @@
+.page {
+    padding-left: 150px;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.error {
+    margin-top: 15px;
+    font-size: 12px;
+    color: red;
+}
+
+img {
+    width: 150px;
+    margin-left: 100px;
+}
+
+.back {
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}

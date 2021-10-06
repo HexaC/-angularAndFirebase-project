@@ -1,0 +1,48 @@
+.panel {
+  background-color: rgb(245, 245, 245);
+}
+
+mat-icon {
+  position: relative;
+  top: 2px;
+  right: 2px;
+}
+
+.div-filter {
+  padding: 10px;
+  margin: 10px;
+}
+
+.input-filter {
+  width: 200px;
+  margin: 20px;
+}
+
+.input-group {
+  float: left;
+  padding: 2vh;
+}
+
+.addBtn {
+  padding: 18px;
+}
+
+#addCust {
+  background-color: #313131;
+  color: #fff;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.con {
+  padding-left: 100px;
+}
+
+#first {
+  color: black;
+  padding-left: 50px;
+}

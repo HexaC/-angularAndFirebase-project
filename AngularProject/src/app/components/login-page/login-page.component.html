@@ -1,0 +1,29 @@
+<img src="/assets/people-icon-5-big.png" alt="CRM-Logo">
+<h1>CRM</h1>
+<h3>Login</h3>
+<form ngForm #formStatus="ngForm" id="logForm">
+  <div class="form-row">
+  <div class="form-group col-md-3">
+    <mat-icon id="loginIcons">account_box</mat-icon><label>User Name</label>
+      <input ngModel required #refUserName="ngModel" #username name="first" type="text" class="form-control" placeholder="Type your username" />
+      <br>
+      <span *ngIf="refUserName.touched && refUserName.invalid" class="alert alert-danger" id="alert"><mat-icon id="warningIcons">error</mat-icon>User Name Is Required.
+      </span>
+      <!-- <pre>{{refUserName.control|json}}</pre>  ==> shows the state of the value -->
+    </div>
+    <div class="form-group col-md-3" id="pass">
+      <mat-icon id="loginIcons">lock_open</mat-icon><label>Password</label>
+      <input ngModel required #refPass="ngModel" #pass type="password" name="last" class="form-control" placeholder="Type your password"/>
+      <br>
+      <span *ngIf="refPass.touched && refPass.invalid" class="alert alert-danger" id="alert"><mat-icon id="warningIcons">error</mat-icon>Password Is Required.
+      </span>
+    </div>
+  </div>
+  <div class="form-row" id="button">
+    <button [disabled]="formStatus.invalid" (click)="login(username.value, pass.value)" type="button"
+      class="btn btn-success">Login</button>
+  </div>
+</form>
+
+
+

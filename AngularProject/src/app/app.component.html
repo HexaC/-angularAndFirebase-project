@@ -1,0 +1,18 @@
+<div id="mySidebar" class="sidebar" onmouseover="toggleSidebarOn()" onmouseout="toggleSidebarOff()">
+  <h1>CRM</h1>
+  <a routerLink="customers"><mat-icon>shopping_basket</mat-icon><span class="icon-text">Customers</span></a>
+  <br>
+  <a routerLink="contacts"><mat-icon>account_box</mat-icon><span class="icon-text">Contacts</span></a>
+  <br>
+  <a routerLink="profile"><mat-icon>account_circle</mat-icon><span class="icon-text">Profile</span></a>
+  <br>
+  <div class="logout" id="logId">
+    <button *ngIf="isLoggedIn" (click)="logout()" type=" button" class="btn" id="log">Logout</button>
+  </div>
+  <!-- can use also ' routerLink="login" ' for navigation but it's a bit worst option -->
+</div>
+
+
+<div class="main">
+  <router-outlet></router-outlet>
+</div>
