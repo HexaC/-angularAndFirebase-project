@@ -39,3 +39,4 @@ $ ng serve -o
 - Please note the uUser Name and Password - CRM.txt file if you try to login
 
 ## Credits
+Code first - Weather widget https://github.com/Nitij/Angular-Weather-Widget
