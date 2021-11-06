@@ -1,7 +1,9 @@
 # CRM System Site
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/HexaC/-angularAndFirebase-project)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HexaC/-angularAndFirebase-project)
-[![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://www.typescriptlang.org/)
+[![TypeScript](https://badges.aleen42.com/src/typescript.svg)](https://www.typescriptlang.org/)
+[![Angular](https://badges.aleen42.com/src/angular.svg)](https://angular.io/)
+
 
 ## Description
 Customer relationship management system site built with Angular 12 &amp; Firebase. 
