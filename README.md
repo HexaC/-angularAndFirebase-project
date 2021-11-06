@@ -39,6 +39,3 @@ $ ng serve -o
 - Please note the uUser Name and Password - CRM.txt file if you try to login
 
 ## Credits
-
-## License
-Copyright © 2021 Ilan Dov.
