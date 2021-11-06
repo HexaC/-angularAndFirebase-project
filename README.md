@@ -36,7 +36,7 @@ $ cd ../AngularProject
 $ npm install
 $ ng serve -o
 ```
-- Please note the username & password reademe file if you try to login
+- Please note the uUser Name and Password - CRM.txt file if you try to login
 
 ## Credits
 
