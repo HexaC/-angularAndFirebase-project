@@ -1,7 +1,7 @@
 # CRM System Site
 
 ## Description
-Customer relationship management system site built with angular 12 &amp; firebase. 
+Customer relationship management system site built with Angular 12 &amp; Firebase. 
 
 ## Table of Content
 - Demo
