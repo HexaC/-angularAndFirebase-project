@@ -32,7 +32,7 @@ Customer relationship management system site built with Angular 12 &amp; Firebas
 ![Demo Doccou alpha](https://media.giphy.com/media/SdFoK7o7s9KCLvpJ89/giphy.gif)
 
 #### Full Video
-[![Watch the full video here](https://youtu.be/fOOjJmgF2aU)](https://media.giphy.com/media/o1c7wnsMaJya7rFOnr/giphy.gif)
+[![Watch the full video here](https://youtu.be/fOOjJmgF2aU)](https://youtu.be/fOOjJmgF2aU)
 
 ## Installation
 To run this project, install it locally using npm terminal in your Visual Studio Code:
