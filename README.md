@@ -1,10 +1,14 @@
 # CRM System Site
-Customer relationship management system site built with angular 12 &amp; firebase. 
 
 ## Description
+Customer relationship management system site built with angular 12 &amp; firebase. 
+
+## Table of Content
+- Demo
+- Installation
+- Credits
 
 ## Demo
-
 
 #### Login Page
 ![Demo Doccou alpha](https://media.giphy.com/media/o1c7wnsMaJya7rFOnr/giphy.gif)
@@ -19,25 +23,20 @@ Customer relationship management system site built with angular 12 &amp; firebas
 #### Profile Page
 ![Demo Doccou alpha](https://media.giphy.com/media/HRz3BaTLOmBtqd2U6x/giphy.gif)
 
+#### 404 Page && Logout
+![Demo Doccou alpha](https://media.giphy.com/media/SdFoK7o7s9KCLvpJ89/giphy.gif)
+
 #### Full Video
 [![Watch the full video here](https://youtu.be/fOOjJmgF2aU)](https://media.giphy.com/media/o1c7wnsMaJya7rFOnr/giphy.gif)
-
-
-## Table of Content
-- Login page
-- A table with the options to delete/edit/see a specific customer
-- A tabel displaying all the current customers
-- Profile page
-- 404 not found page
 
 ## Installation
 To run this project, install it locally using npm terminal in your vs code:
 ```
 $ cd ../AngularProject
 $ npm install
-$ npm start
+$ ng serve -o
 ```
-
+- Please note the username & password reademe file if you try to login
 
 ## Credits
 
