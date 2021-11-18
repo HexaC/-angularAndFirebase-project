@@ -9,9 +9,18 @@
 Customer relationship management system site built with Angular 12 &amp; Firebase. 
 
 ## Table of Content
-- Demo
-- Installation
-- Credits
+- [Installation](#Installation)
+- [Demo](Demo)
+- [Credits](#Credits)
+
+## Installation
+To run this project, install it locally using npm terminal in your Visual Studio Code:
+```
+$ cd ../AngularProject
+$ npm install
+$ ng serve -o
+```
+- Please note the User Name and Password - CRM.txt file if you try to login
 
 ## Demo
 
@@ -33,15 +42,6 @@ Customer relationship management system site built with Angular 12 &amp; Firebas
 
 #### Full Video
 [![Watch the full video here](https://youtu.be/fOOjJmgF2aU)](https://youtu.be/fOOjJmgF2aU)
-
-## Installation
-To run this project, install it locally using npm terminal in your Visual Studio Code:
-```
-$ cd ../AngularProject
-$ npm install
-$ ng serve -o
-```
-- Please note the User Name and Password - CRM.txt file if you try to login
 
 ## Credits
 - Code first - Weather widget https://github.com/Nitij/Angular-Weather-Widget
