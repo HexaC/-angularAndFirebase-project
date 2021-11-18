@@ -10,7 +10,7 @@ Customer relationship management system site built with Angular 12 &amp; Firebas
 
 ## Table of Content
 - [Installation](#Installation)
-- [Demo](Demo)
+- [Demo](#Demo)
 - [Credits](#Credits)
 
 ## Installation
