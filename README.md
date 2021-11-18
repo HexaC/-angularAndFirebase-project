@@ -6,7 +6,7 @@
 
 
 ## Description
-Customer relationship management system site built with Angular 12 &amp; Firebase. 
+Customer relationship management system site built to find new talents in variety of areas. 
 
 ## Table of Content
 - [Installation](#Installation)
